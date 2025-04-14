@@ -1,0 +1,2867 @@
+{
+  "5ème": {
+    "Proportionnalité": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Question 16 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 16",
+          "etapes": [
+            "Étape 1 de la question 16",
+            "Étape 2 de la question 16"
+          ]
+        }
+      },
+      {
+        "question": "Question 17 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 17",
+          "etapes": [
+            "Étape 1 de la question 17",
+            "Étape 2 de la question 17"
+          ]
+        }
+      },
+      {
+        "question": "Question 18 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 18",
+          "etapes": [
+            "Étape 1 de la question 18",
+            "Étape 2 de la question 18"
+          ]
+        }
+      },
+      {
+        "question": "Question 19 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 19",
+          "etapes": [
+            "Étape 1 de la question 19",
+            "Étape 2 de la question 19"
+          ]
+        }
+      },
+      {
+        "question": "Question 20 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 20",
+          "etapes": [
+            "Étape 1 de la question 20",
+            "Étape 2 de la question 20"
+          ]
+        }
+      },
+      {
+        "question": "Question 21 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 21",
+          "etapes": [
+            "Étape 1 de la question 21",
+            "Étape 2 de la question 21"
+          ]
+        }
+      },
+      {
+        "question": "Question 22 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 22",
+          "etapes": [
+            "Étape 1 de la question 22",
+            "Étape 2 de la question 22"
+          ]
+        }
+      },
+      {
+        "question": "Question 23 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 23",
+          "etapes": [
+            "Étape 1 de la question 23",
+            "Étape 2 de la question 23"
+          ]
+        }
+      },
+      {
+        "question": "Question 24 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 24",
+          "etapes": [
+            "Étape 1 de la question 24",
+            "Étape 2 de la question 24"
+          ]
+        }
+      },
+      {
+        "question": "Question 25 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 25",
+          "etapes": [
+            "Étape 1 de la question 25",
+            "Étape 2 de la question 25"
+          ]
+        }
+      },
+      {
+        "question": "Question 26 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 26",
+          "etapes": [
+            "Étape 1 de la question 26",
+            "Étape 2 de la question 26"
+          ]
+        }
+      },
+      {
+        "question": "Question 27 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 27",
+          "etapes": [
+            "Étape 1 de la question 27",
+            "Étape 2 de la question 27"
+          ]
+        }
+      },
+      {
+        "question": "Question 28 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 28",
+          "etapes": [
+            "Étape 1 de la question 28",
+            "Étape 2 de la question 28"
+          ]
+        }
+      },
+      {
+        "question": "Question 29 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 29",
+          "etapes": [
+            "Étape 1 de la question 29",
+            "Étape 2 de la question 29"
+          ]
+        }
+      },
+      {
+        "question": "Question 30 – Proportionnalité (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 30",
+          "etapes": [
+            "Étape 1 de la question 30",
+            "Étape 2 de la question 30"
+          ]
+        }
+      }
+    ],
+    "Nombres et calculs": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Question 1 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 1",
+          "etapes": [
+            "Étape 1 de la question 1",
+            "Étape 2 de la question 1"
+          ]
+        }
+      },
+      {
+        "question": "Question 2 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 2",
+          "etapes": [
+            "Étape 1 de la question 2",
+            "Étape 2 de la question 2"
+          ]
+        }
+      },
+      {
+        "question": "Question 3 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 3",
+          "etapes": [
+            "Étape 1 de la question 3",
+            "Étape 2 de la question 3"
+          ]
+        }
+      },
+      {
+        "question": "Question 4 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 4",
+          "etapes": [
+            "Étape 1 de la question 4",
+            "Étape 2 de la question 4"
+          ]
+        }
+      },
+      {
+        "question": "Question 5 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 5",
+          "etapes": [
+            "Étape 1 de la question 5",
+            "Étape 2 de la question 5"
+          ]
+        }
+      },
+      {
+        "question": "Question 6 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 6",
+          "etapes": [
+            "Étape 1 de la question 6",
+            "Étape 2 de la question 6"
+          ]
+        }
+      },
+      {
+        "question": "Question 7 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 7",
+          "etapes": [
+            "Étape 1 de la question 7",
+            "Étape 2 de la question 7"
+          ]
+        }
+      },
+      {
+        "question": "Question 8 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 8",
+          "etapes": [
+            "Étape 1 de la question 8",
+            "Étape 2 de la question 8"
+          ]
+        }
+      },
+      {
+        "question": "Question 9 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 9",
+          "etapes": [
+            "Étape 1 de la question 9",
+            "Étape 2 de la question 9"
+          ]
+        }
+      },
+      {
+        "question": "Question 10 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 10",
+          "etapes": [
+            "Étape 1 de la question 10",
+            "Étape 2 de la question 10"
+          ]
+        }
+      },
+      {
+        "question": "Question 11 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 11",
+          "etapes": [
+            "Étape 1 de la question 11",
+            "Étape 2 de la question 11"
+          ]
+        }
+      },
+      {
+        "question": "Question 12 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 12",
+          "etapes": [
+            "Étape 1 de la question 12",
+            "Étape 2 de la question 12"
+          ]
+        }
+      },
+      {
+        "question": "Question 13 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 13",
+          "etapes": [
+            "Étape 1 de la question 13",
+            "Étape 2 de la question 13"
+          ]
+        }
+      },
+      {
+        "question": "Question 14 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 14",
+          "etapes": [
+            "Étape 1 de la question 14",
+            "Étape 2 de la question 14"
+          ]
+        }
+      },
+      {
+        "question": "Question 15 – Nombres et calculs (5e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 15",
+          "etapes": [
+            "Étape 1 de la question 15",
+            "Étape 2 de la question 15"
+          ]
+        }
+      }
+    ],
+    "Arithmétique": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "Combien de côtés possède un hexagone régulier ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "6",
+          "explication": "Un hexagone possède 6 côtés égaux."
+        }
+      },
+      {
+        "question": "Quel est l’angle intérieur d’un triangle équilatéral ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "$60^{\\circ}$",
+          "explication": "La somme des angles d’un triangle est $180^{\\circ}$, et les trois angles sont égaux."
+        }
+      }
+    ],
+    "Grandeurs et mesures": [
+      {
+        "question": "Convertis 2,5 m en cm.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "250 cm",
+          "etapes": [
+            "$2{,}5 \\times 100 = 250$"
+          ]
+        }
+      },
+      {
+        "question": "Une baignoire contient 180 L d'eau. Combien de litres sont versés en 3 minutes à un débit de 12 L/min ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "36 L",
+          "etapes": [
+            "$12 \\times 3 = 36$"
+          ]
+        }
+      }
+    ],
+    "Statistiques": [
+      {
+        "question": "Calcule la moyenne des âges suivants : 12, 13, 13, 14, 14.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "13,2",
+          "etapes": [
+            "Somme : $12 + 13 + 13 + 14 + 14 = 66$",
+            "Moyenne : $66 \\div 5 = 13,2$"
+          ]
+        }
+      },
+      {
+        "question": "Détermine la valeur la plus fréquente (mode) de la série : 3, 5, 5, 6, 7.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "5",
+          "explication": "5 apparaît deux fois, les autres une seule."
+        }
+      }
+    ]
+  },
+  "4ème": {
+    "Calcul littéral": [
+      {
+        "question": "Développe et réduis : $(x + 3)^2$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x^2 + 6x + 9$",
+          "etapes": [
+            "$(x + 3)^2 = x^2 + 2 \\times 3 \\times x + 3^2$",
+            "$= x^2 + 6x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Réduis l'expression : $3x + 2 - 5x + 7$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$-2x + 9$",
+          "etapes": [
+            "$3x - 5x = -2x$",
+            "$2 + 7 = 9$",
+            "Donc : $-2x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Développe : $2(x - 4)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x - 8$",
+          "etapes": [
+            "$2(x - 4) = 2 \\times x - 2 \\times 4$",
+            "$= 2x - 8$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $4(x - 2) + 3(x + 5)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$7x + 7$",
+          "etapes": [
+            "$4(x - 2) = 4x - 8$",
+            "$3(x + 5) = 3x + 15$",
+            "Somme : $4x - 8 + 3x + 15 = 7x + 7$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise l'expression : $2x + 6$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2(x + 3)$",
+          "etapes": [
+            "Factorisation par 2 : $2x + 6 = 2(x + 3)$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise : $5x - 10$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$5(x - 2)$",
+          "etapes": [
+            "$5x - 10 = 5(x - 2)$"
+          ]
+        }
+      },
+      {
+        "question": "Développe : $(2x + 1)(x - 3)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x^2 - 5x - 3$",
+          "etapes": [
+            "$2x \\times x = 2x^2$",
+            "$2x \\times (-3) = -6x$",
+            "$1 \\times x = x$",
+            "$1 \\times (-3) = -3$",
+            "Somme : $2x^2 - 6x + x - 3 = 2x^2 - 5x - 3$"
+          ]
+        }
+      },
+      {
+        "question": "Réduis : $4x - (2x + 5)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x - 5$",
+          "etapes": [
+            "$4x - 2x - 5 = 2x - 5$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $(x - 1)^2$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x^2 - 2x + 1$",
+          "etapes": [
+            "$(x - 1)^2 = x^2 - 2x + 1$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise : $x^2 + 5x$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x(x + 5)$",
+          "etapes": [
+            "Factorisation par $x$ : $x^2 + 5x = x(x + 5)$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $(x + 3)^2$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x^2 + 6x + 9$",
+          "etapes": [
+            "$(x + 3)^2 = x^2 + 2 \\times 3 \\times x + 3^2$",
+            "$= x^2 + 6x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Réduis l'expression : $3x + 2 - 5x + 7$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$-2x + 9$",
+          "etapes": [
+            "$3x - 5x = -2x$",
+            "$2 + 7 = 9$",
+            "Donc : $-2x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Développe : $2(x - 4)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x - 8$",
+          "etapes": [
+            "$2(x - 4) = 2 \\times x - 2 \\times 4$",
+            "$= 2x - 8$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $4(x - 2) + 3(x + 5)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$7x + 7$",
+          "etapes": [
+            "$4(x - 2) = 4x - 8$",
+            "$3(x + 5) = 3x + 15$",
+            "Somme : $4x - 8 + 3x + 15 = 7x + 7$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise l'expression : $2x + 6$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2(x + 3)$",
+          "etapes": [
+            "Factorisation par 2 : $2x + 6 = 2(x + 3)$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise : $5x - 10$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$5(x - 2)$",
+          "etapes": [
+            "$5x - 10 = 5(x - 2)$"
+          ]
+        }
+      },
+      {
+        "question": "Développe : $(2x + 1)(x - 3)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x^2 - 5x - 3$",
+          "etapes": [
+            "$2x \\times x = 2x^2$",
+            "$2x \\times (-3) = -6x$",
+            "$1 \\times x = x$",
+            "$1 \\times (-3) = -3$",
+            "Somme : $2x^2 - 6x + x - 3 = 2x^2 - 5x - 3$"
+          ]
+        }
+      },
+      {
+        "question": "Réduis : $4x - (2x + 5)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x - 5$",
+          "etapes": [
+            "$4x - 2x - 5 = 2x - 5$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $(x - 1)^2$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x^2 - 2x + 1$",
+          "etapes": [
+            "$(x - 1)^2 = x^2 - 2x + 1$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise : $x^2 + 5x$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x(x + 5)$",
+          "etapes": [
+            "Factorisation par $x$ : $x^2 + 5x = x(x + 5)$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $(x + 3)^2$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$x^2 + 6x + 9$",
+          "etapes": [
+            "$(x + 3)^2 = x^2 + 2 \\times 3 \\times x + 3^2$",
+            "$= x^2 + 6x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Réduis l'expression : $3x + 2 - 5x + 7$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$-2x + 9$",
+          "etapes": [
+            "$3x - 5x = -2x$",
+            "$2 + 7 = 9$",
+            "Donc : $-2x + 9$"
+          ]
+        }
+      },
+      {
+        "question": "Développe : $2(x - 4)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2x - 8$",
+          "etapes": [
+            "$2(x - 4) = 2 \\times x - 2 \\times 4$",
+            "$= 2x - 8$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $4(x - 2) + 3(x + 5)$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$7x + 7$",
+          "etapes": [
+            "$4(x - 2) = 4x - 8$",
+            "$3(x + 5) = 3x + 15$",
+            "Somme : $4x - 8 + 3x + 15 = 7x + 7$"
+          ]
+        }
+      },
+      {
+        "question": "Factorise l'expression : $2x + 6$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$2(x + 3)$",
+          "etapes": [
+            "Factorisation par 2 : $2x + 6 = 2(x + 3)$"
+          ]
+        }
+      }
+    ],
+    "Proportionnalité": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Question 46 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 46",
+          "etapes": [
+            "Étape 1 de la question 46",
+            "Étape 2 de la question 46"
+          ]
+        }
+      },
+      {
+        "question": "Question 47 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 47",
+          "etapes": [
+            "Étape 1 de la question 47",
+            "Étape 2 de la question 47"
+          ]
+        }
+      },
+      {
+        "question": "Question 48 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 48",
+          "etapes": [
+            "Étape 1 de la question 48",
+            "Étape 2 de la question 48"
+          ]
+        }
+      },
+      {
+        "question": "Question 49 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 49",
+          "etapes": [
+            "Étape 1 de la question 49",
+            "Étape 2 de la question 49"
+          ]
+        }
+      },
+      {
+        "question": "Question 50 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 50",
+          "etapes": [
+            "Étape 1 de la question 50",
+            "Étape 2 de la question 50"
+          ]
+        }
+      },
+      {
+        "question": "Question 51 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 51",
+          "etapes": [
+            "Étape 1 de la question 51",
+            "Étape 2 de la question 51"
+          ]
+        }
+      },
+      {
+        "question": "Question 52 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 52",
+          "etapes": [
+            "Étape 1 de la question 52",
+            "Étape 2 de la question 52"
+          ]
+        }
+      },
+      {
+        "question": "Question 53 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 53",
+          "etapes": [
+            "Étape 1 de la question 53",
+            "Étape 2 de la question 53"
+          ]
+        }
+      },
+      {
+        "question": "Question 54 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 54",
+          "etapes": [
+            "Étape 1 de la question 54",
+            "Étape 2 de la question 54"
+          ]
+        }
+      },
+      {
+        "question": "Question 55 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 55",
+          "etapes": [
+            "Étape 1 de la question 55",
+            "Étape 2 de la question 55"
+          ]
+        }
+      },
+      {
+        "question": "Question 56 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 56",
+          "etapes": [
+            "Étape 1 de la question 56",
+            "Étape 2 de la question 56"
+          ]
+        }
+      },
+      {
+        "question": "Question 57 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 57",
+          "etapes": [
+            "Étape 1 de la question 57",
+            "Étape 2 de la question 57"
+          ]
+        }
+      },
+      {
+        "question": "Question 58 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 58",
+          "etapes": [
+            "Étape 1 de la question 58",
+            "Étape 2 de la question 58"
+          ]
+        }
+      },
+      {
+        "question": "Question 59 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 59",
+          "etapes": [
+            "Étape 1 de la question 59",
+            "Étape 2 de la question 59"
+          ]
+        }
+      },
+      {
+        "question": "Question 60 – Proportionnalité (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 60",
+          "etapes": [
+            "Étape 1 de la question 60",
+            "Étape 2 de la question 60"
+          ]
+        }
+      }
+    ],
+    "Nombres et calculs": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Calcule $-7 + 12$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "5",
+          "etapes": [
+            "$-7 + 12 = 5$"
+          ]
+        }
+      },
+      {
+        "question": "Donne l'opposé de $-15$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "15",
+          "explication": "L’opposé d’un nombre est celui qui a le signe contraire."
+        }
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Question 31 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 31",
+          "etapes": [
+            "Étape 1 de la question 31",
+            "Étape 2 de la question 31"
+          ]
+        }
+      },
+      {
+        "question": "Question 32 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 32",
+          "etapes": [
+            "Étape 1 de la question 32",
+            "Étape 2 de la question 32"
+          ]
+        }
+      },
+      {
+        "question": "Question 33 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 33",
+          "etapes": [
+            "Étape 1 de la question 33",
+            "Étape 2 de la question 33"
+          ]
+        }
+      },
+      {
+        "question": "Question 34 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 34",
+          "etapes": [
+            "Étape 1 de la question 34",
+            "Étape 2 de la question 34"
+          ]
+        }
+      },
+      {
+        "question": "Question 35 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 35",
+          "etapes": [
+            "Étape 1 de la question 35",
+            "Étape 2 de la question 35"
+          ]
+        }
+      },
+      {
+        "question": "Question 36 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 36",
+          "etapes": [
+            "Étape 1 de la question 36",
+            "Étape 2 de la question 36"
+          ]
+        }
+      },
+      {
+        "question": "Question 37 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 37",
+          "etapes": [
+            "Étape 1 de la question 37",
+            "Étape 2 de la question 37"
+          ]
+        }
+      },
+      {
+        "question": "Question 38 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 38",
+          "etapes": [
+            "Étape 1 de la question 38",
+            "Étape 2 de la question 38"
+          ]
+        }
+      },
+      {
+        "question": "Question 39 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 39",
+          "etapes": [
+            "Étape 1 de la question 39",
+            "Étape 2 de la question 39"
+          ]
+        }
+      },
+      {
+        "question": "Question 40 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 40",
+          "etapes": [
+            "Étape 1 de la question 40",
+            "Étape 2 de la question 40"
+          ]
+        }
+      },
+      {
+        "question": "Question 41 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 41",
+          "etapes": [
+            "Étape 1 de la question 41",
+            "Étape 2 de la question 41"
+          ]
+        }
+      },
+      {
+        "question": "Question 42 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 42",
+          "etapes": [
+            "Étape 1 de la question 42",
+            "Étape 2 de la question 42"
+          ]
+        }
+      },
+      {
+        "question": "Question 43 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 43",
+          "etapes": [
+            "Étape 1 de la question 43",
+            "Étape 2 de la question 43"
+          ]
+        }
+      },
+      {
+        "question": "Question 44 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 44",
+          "etapes": [
+            "Étape 1 de la question 44",
+            "Étape 2 de la question 44"
+          ]
+        }
+      },
+      {
+        "question": "Question 45 – Géométrie (4e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 45",
+          "etapes": [
+            "Étape 1 de la question 45",
+            "Étape 2 de la question 45"
+          ]
+        }
+      }
+    ],
+    "Statistiques": [
+      {
+        "question": "Calcule la moyenne des notes suivantes : $10$, $12$, $14$, $8$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "11",
+          "etapes": [
+            "Total : $10 + 12 + 14 + 8 = 44$",
+            "Moyenne = $44 \\div 4 = 11$"
+          ]
+        }
+      },
+      {
+        "question": "Détermine la médiane de la série : $4$, $7$, $9$, $11$, $13$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "9",
+          "explication": "La médiane est la valeur centrale d'une série ordonnée."
+        }
+      }
+    ],
+    "Équations simples": [
+      {
+        "question": "Résous : $3x - 5 = 10$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "x = 5",
+          "etapes": [
+            "$3x = 10 + 5 = 15$",
+            "$x = 15 \\div 3 = 5$"
+          ]
+        }
+      },
+      {
+        "question": "Résous : $2(x + 1) = 10$",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "x = 4",
+          "etapes": [
+            "$2(x + 1) = 10$",
+            "$x + 1 = 5$",
+            "$x = 4$"
+          ]
+        }
+      }
+    ]
+  },
+  "3ème": {
+    "Fonctions": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:25 000. Quelle distance réelle représente 4 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 km",
+          "etapes": [
+            "4 cm $\\times$ 25 000 = 100 000 cm",
+            "$100 000$ cm = $1$ km"
+          ]
+        }
+      },
+      {
+        "question": "Dans une recette, il faut 300 g de farine pour 6 personnes. Combien faut-il pour 10 personnes ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "500 g",
+          "etapes": [
+            "300 ÷ 6 = 50 g par personne",
+            "50 × 10 = 500 g"
+          ]
+        }
+      },
+      {
+        "question": "Un salarié gagne 1600 € brut. Il paie 20 % de charges. Quel est son salaire net ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1280 €",
+          "etapes": [
+            "20 % de 1600 = $0{,}2 \\times 1600 = 320$",
+            "1600 - 320 = 1280 €"
+          ]
+        }
+      },
+      {
+        "question": "Dans un tableau de proportionnalité, une valeur double, que devient l’autre ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Elle double aussi",
+          "explication": "Dans une situation de proportionnalité, le rapport reste constant."
+        }
+      },
+      {
+        "question": "Un seau contient 5 L d’eau. On verse 20 % du contenu. Quelle quantité d’eau a été versée ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "1 L",
+          "etapes": [
+            "$0{,}2 \\times 5 = 1$ L"
+          ]
+        }
+      },
+      {
+        "question": "Question 61 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 61",
+          "etapes": [
+            "Étape 1 de la question 61",
+            "Étape 2 de la question 61"
+          ]
+        }
+      },
+      {
+        "question": "Question 62 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 62",
+          "etapes": [
+            "Étape 1 de la question 62",
+            "Étape 2 de la question 62"
+          ]
+        }
+      },
+      {
+        "question": "Question 63 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 63",
+          "etapes": [
+            "Étape 1 de la question 63",
+            "Étape 2 de la question 63"
+          ]
+        }
+      },
+      {
+        "question": "Question 64 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 64",
+          "etapes": [
+            "Étape 1 de la question 64",
+            "Étape 2 de la question 64"
+          ]
+        }
+      },
+      {
+        "question": "Question 65 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 65",
+          "etapes": [
+            "Étape 1 de la question 65",
+            "Étape 2 de la question 65"
+          ]
+        }
+      },
+      {
+        "question": "Question 66 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 66",
+          "etapes": [
+            "Étape 1 de la question 66",
+            "Étape 2 de la question 66"
+          ]
+        }
+      },
+      {
+        "question": "Question 67 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 67",
+          "etapes": [
+            "Étape 1 de la question 67",
+            "Étape 2 de la question 67"
+          ]
+        }
+      },
+      {
+        "question": "Question 68 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 68",
+          "etapes": [
+            "Étape 1 de la question 68",
+            "Étape 2 de la question 68"
+          ]
+        }
+      },
+      {
+        "question": "Question 69 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 69",
+          "etapes": [
+            "Étape 1 de la question 69",
+            "Étape 2 de la question 69"
+          ]
+        }
+      },
+      {
+        "question": "Question 70 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 70",
+          "etapes": [
+            "Étape 1 de la question 70",
+            "Étape 2 de la question 70"
+          ]
+        }
+      },
+      {
+        "question": "Question 71 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 71",
+          "etapes": [
+            "Étape 1 de la question 71",
+            "Étape 2 de la question 71"
+          ]
+        }
+      },
+      {
+        "question": "Question 72 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 72",
+          "etapes": [
+            "Étape 1 de la question 72",
+            "Étape 2 de la question 72"
+          ]
+        }
+      },
+      {
+        "question": "Question 73 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 73",
+          "etapes": [
+            "Étape 1 de la question 73",
+            "Étape 2 de la question 73"
+          ]
+        }
+      },
+      {
+        "question": "Question 74 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 74",
+          "etapes": [
+            "Étape 1 de la question 74",
+            "Étape 2 de la question 74"
+          ]
+        }
+      },
+      {
+        "question": "Question 75 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 75",
+          "etapes": [
+            "Étape 1 de la question 75",
+            "Étape 2 de la question 75"
+          ]
+        }
+      },
+      {
+        "question": "Question 76 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 76",
+          "etapes": [
+            "Étape 1 de la question 76",
+            "Étape 2 de la question 76"
+          ]
+        }
+      },
+      {
+        "question": "Question 77 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 77",
+          "etapes": [
+            "Étape 1 de la question 77",
+            "Étape 2 de la question 77"
+          ]
+        }
+      },
+      {
+        "question": "Question 78 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 78",
+          "etapes": [
+            "Étape 1 de la question 78",
+            "Étape 2 de la question 78"
+          ]
+        }
+      },
+      {
+        "question": "Question 79 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 79",
+          "etapes": [
+            "Étape 1 de la question 79",
+            "Étape 2 de la question 79"
+          ]
+        }
+      },
+      {
+        "question": "Question 80 – Fonctions (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 80",
+          "etapes": [
+            "Étape 1 de la question 80",
+            "Étape 2 de la question 80"
+          ]
+        }
+      },
+      {
+        "question": "Soit $f(x) = -2x + 3$. Calcule $f(4)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "-5",
+          "etapes": [
+            "$f(4) = -2 \\times 4 + 3 = -8 + 3 = -5$"
+          ]
+        }
+      },
+      {
+        "question": "Soit $g(x) = \\frac{x}{2} - 1$. Trouve l’image de 6.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "2",
+          "etapes": [
+            "$g(6) = \\frac{6}{2} - 1 = 3 - 1 = 2$"
+          ]
+        }
+      }
+    ],
+    "Thalès": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      }
+    ],
+    "Pythagore": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      }
+    ],
+    "Statistiques": [
+      {
+        "question": "Un paquet de 6 stylos coûte 4,80 €. Quel est le prix d’un seul stylo ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "0,80 €",
+          "etapes": [
+            "Prix unitaire = $4{,}80 \\div 6$",
+            "Un stylo coûte donc $0{,}80 €$"
+          ]
+        }
+      },
+      {
+        "question": "3 kg de pommes coûtent 6 €. Quel est le prix de 5 kg ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "10 €",
+          "etapes": [
+            "Prix au kg = $6 \\div 3 = 2$",
+            "$5 \\times 2 = 10$"
+          ]
+        }
+      },
+      {
+        "question": "Un produit coûte 80 € et subit une réduction de 25 %. Quel est le prix remisé ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 €",
+          "etapes": [
+            "25 % de 80 = $0{,}25 \\times 80 = 20$",
+            "Prix final = $80 - 20 = 60$"
+          ]
+        }
+      },
+      {
+        "question": "Un train parcourt 120 km en 2 heures. Quelle est sa vitesse moyenne ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "60 km/h",
+          "etapes": [
+            "Vitesse = $\\frac{120}{2} = 60$ km/h"
+          ]
+        }
+      },
+      {
+        "question": "Un vélo roule à 18 km/h. Quelle distance parcourt-il en 2h30 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "45 km",
+          "etapes": [
+            "2h30 = 2{,}5 h",
+            "$18 \\times 2{,}5 = 45$"
+          ]
+        }
+      },
+      {
+        "question": "Question 81 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 81",
+          "etapes": [
+            "Étape 1 de la question 81",
+            "Étape 2 de la question 81"
+          ]
+        }
+      },
+      {
+        "question": "Question 82 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 82",
+          "etapes": [
+            "Étape 1 de la question 82",
+            "Étape 2 de la question 82"
+          ]
+        }
+      },
+      {
+        "question": "Question 83 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 83",
+          "etapes": [
+            "Étape 1 de la question 83",
+            "Étape 2 de la question 83"
+          ]
+        }
+      },
+      {
+        "question": "Question 84 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 84",
+          "etapes": [
+            "Étape 1 de la question 84",
+            "Étape 2 de la question 84"
+          ]
+        }
+      },
+      {
+        "question": "Question 85 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 85",
+          "etapes": [
+            "Étape 1 de la question 85",
+            "Étape 2 de la question 85"
+          ]
+        }
+      },
+      {
+        "question": "Question 86 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 86",
+          "etapes": [
+            "Étape 1 de la question 86",
+            "Étape 2 de la question 86"
+          ]
+        }
+      },
+      {
+        "question": "Question 87 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 87",
+          "etapes": [
+            "Étape 1 de la question 87",
+            "Étape 2 de la question 87"
+          ]
+        }
+      },
+      {
+        "question": "Question 88 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 88",
+          "etapes": [
+            "Étape 1 de la question 88",
+            "Étape 2 de la question 88"
+          ]
+        }
+      },
+      {
+        "question": "Question 89 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 89",
+          "etapes": [
+            "Étape 1 de la question 89",
+            "Étape 2 de la question 89"
+          ]
+        }
+      },
+      {
+        "question": "Question 90 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 90",
+          "etapes": [
+            "Étape 1 de la question 90",
+            "Étape 2 de la question 90"
+          ]
+        }
+      },
+      {
+        "question": "Question 91 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 91",
+          "etapes": [
+            "Étape 1 de la question 91",
+            "Étape 2 de la question 91"
+          ]
+        }
+      },
+      {
+        "question": "Question 92 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 92",
+          "etapes": [
+            "Étape 1 de la question 92",
+            "Étape 2 de la question 92"
+          ]
+        }
+      },
+      {
+        "question": "Question 93 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 93",
+          "etapes": [
+            "Étape 1 de la question 93",
+            "Étape 2 de la question 93"
+          ]
+        }
+      },
+      {
+        "question": "Question 94 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 94",
+          "etapes": [
+            "Étape 1 de la question 94",
+            "Étape 2 de la question 94"
+          ]
+        }
+      },
+      {
+        "question": "Question 95 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 95",
+          "etapes": [
+            "Étape 1 de la question 95",
+            "Étape 2 de la question 95"
+          ]
+        }
+      },
+      {
+        "question": "Question 96 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 96",
+          "etapes": [
+            "Étape 1 de la question 96",
+            "Étape 2 de la question 96"
+          ]
+        }
+      },
+      {
+        "question": "Question 97 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 97",
+          "etapes": [
+            "Étape 1 de la question 97",
+            "Étape 2 de la question 97"
+          ]
+        }
+      },
+      {
+        "question": "Question 98 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 98",
+          "etapes": [
+            "Étape 1 de la question 98",
+            "Étape 2 de la question 98"
+          ]
+        }
+      },
+      {
+        "question": "Question 99 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 99",
+          "etapes": [
+            "Étape 1 de la question 99",
+            "Étape 2 de la question 99"
+          ]
+        }
+      },
+      {
+        "question": "Question 100 – Statistiques (3e)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "Réponse 100",
+          "etapes": [
+            "Étape 1 de la question 100",
+            "Étape 2 de la question 100"
+          ]
+        }
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "Un triangle a des côtés de longueurs 6 cm, 8 cm et 10 cm. Est-il rectangle ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Oui",
+          "etapes": [
+            "$6^2 + 8^2 = 36 + 64 = 100$",
+            "$10^2 = 100$",
+            "Donc triangle rectangle (théorème de Pythagore)"
+          ]
+        }
+      },
+      {
+        "question": "Dans un triangle, $AB = 8$, $AC = 4$, $AD = 6$, et $AE = 3$. Montre que (DE)//(BC).",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Oui",
+          "etapes": [
+            "$AD/AB = 6/8 = 3/4$",
+            "$AE/AC = 3/4$",
+            "Les rapports sont égaux, donc (DE)//(BC) (Thalès)"
+          ]
+        }
+      }
+    ],
+    "Proportionnalité": [
+      {
+        "question": "Un produit subit une augmentation de 15 %. Son ancien prix est de 80 €. Quel est le nouveau prix ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "92 €",
+          "etapes": [
+            "Augmentation : $80 \\times 0{,}15 = 12$",
+            "Prix final = $80 + 12 = 92$"
+          ]
+        }
+      },
+      {
+        "question": "Une carte est à l’échelle 1:50 000. Quelle distance réelle correspond à 6 cm sur la carte ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "3 km",
+          "etapes": [
+            "$6 \\times 50 000 = 300 000$ cm",
+            "$= 3$ km"
+          ]
+        }
+      }
+    ],
+    "Repérage / Coordonnées": [
+      {
+        "question": "Quelle est l’ordonnée du point A(3, -2) ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "-2",
+          "explication": "L'ordonnée est la deuxième coordonnée : ici -2."
+        }
+      },
+      {
+        "question": "Quel est l’abscisse du point B(-5, 4) ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "-5",
+          "explication": "L’abscisse est la première coordonnée."
+        }
+      }
+    ]
+  }
+}
